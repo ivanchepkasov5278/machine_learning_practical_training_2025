@@ -1,0 +1,14 @@
+CHAPTER 1: INTRODUCTION TO MACHINE LEARNING
+Machine learning is a subfield of artificial intelligence that focuses on building systems that learn from data. There are three main types: supervised learning, unsupervised learning, and reinforcement learning. Algorithms like linear regression, decision trees, and neural networks form the foundation of modern ML applications. Feature engineering and data preprocessing are critical steps in the ML pipeline.
+
+CHAPTER 2: NATURAL LANGUAGE PROCESSING FUNDAMENTALS
+Natural Language Processing enables computers to understand human language. Key techniques include tokenization, stemming, and lemmatization. Bag-of-words models and word embeddings like Word2Vec represent text numerically. Applications range from sentiment analysis to machine translation. Transformer architectures have revolutionized NLP in recent years.
+
+CHAPTER 3: DIMENSIONALITY REDUCTION TECHNIQUES
+Dimensionality reduction methods simplify complex datasets. Principal Component Analysis (PCA) identifies orthogonal axes of maximum variance. t-SNE creates low-dimensional embeddings preserving local structures. Autoencoders use neural networks for nonlinear reduction. These techniques help visualize high-dimensional data and improve model performance.
+
+CHAPTER 4: CLUSTERING ALGORITHMS
+Clustering groups similar data points together. K-means partitions data into spherical clusters based on centroids. Hierarchical clustering builds nested clusters using dendrograms. DBSCAN identifies dense regions separated by sparse areas. Evaluation metrics include silhouette score and Davies-Bouldin index. Applications include customer segmentation and anomaly detection.
+
+CHAPTER 5: TOPIC MODELING APPROACHES
+Topic modeling discovers abstract themes in document collections. Latent Dirichlet Allocation (LDA) is a generative probabilistic model that represents documents as mixtures of topics. Non-Negative Matrix Factorization (NMF) performs dimensionality reduction for topic discovery. Evaluation uses coherence scores and human interpretation. These methods enable automated text analysis at scale.
